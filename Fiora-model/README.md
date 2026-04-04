@@ -1,6 +1,6 @@
-# Shakti AI Women's Health Companion
+# Fiora AI Women's Health Companion
 
-Shakti is a FastAPI-based women's health AI/ML backend that provides:
+Fiora is a FastAPI-based women's health AI/ML backend that provides:
 - Gemini-powered conversational support
 - Retrieval-augmented health context (RAG)
 - Voice chat (speech-to-text + text-to-speech)
@@ -30,7 +30,7 @@ This is a pure AI/ML backend - no frontend or blockchain components included.
 ## Project Structure
 
 ```text
-shakti-app/
+Fiora-model/
 |-- main.py
 |-- requirements.txt
 |-- run.ps1
