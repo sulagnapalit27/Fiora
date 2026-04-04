@@ -1,3 +1,4 @@
+
 # Shakti AI Women's Health Companion
 
 Shakti is an AI/ML backend for women's health support and risk screening.
@@ -124,3 +125,7 @@ python -m uvicorn main:app --reload --host 0.0.0.0 --port 8000
 Docs:
 - `http://localhost:8000/docs`
 - `http://localhost:8000/redoc`
+
+# Fiora
+Fiora: An AI-powered Women's Health &amp; Wellness app. Features period tracking, mood logging, cycle-aware health insights, and an empathetic AI chatbot (Gemini). Includes voice interaction (ElevenLabs), real-time health sensing (Presage), gamified learning and an alert system with a trusted person. 
+
