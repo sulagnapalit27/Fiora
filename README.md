@@ -1,5 +1,5 @@
 
-# Shakti AI Women's Health Companion
+# Fiora AI Women's Health Companion
 
 Shakti is an AI/ML backend for women's health support and risk screening.
 
